@@ -26,6 +26,12 @@ body{
     outline: none;
     background-color: #111;
     color: #eee;  
+
+}
+
+.grid-container > button:hover{
+    background-color: #eee;
+    color: #111;
 }
 
 .grid-container > .operator {
